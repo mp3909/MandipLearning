@@ -10,6 +10,8 @@ namespace MandipLearning
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
+            Console.Read();
         }
     }
 }
